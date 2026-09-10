@@ -1,0 +1,16 @@
+{
+  "name": "TACTICAL 8 — Tactical Conditioning",
+  "short_name": "TACTICAL 8",
+  "description": "An eight-week tactical conditioning coach and workout tracker.",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090b0e",
+  "theme_color": "#090b0e",
+  "icons": [
+    {"src":"./apple-touch-icon.png","sizes":"180x180","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
